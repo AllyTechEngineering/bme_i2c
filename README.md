@@ -1,16 +1,14 @@
 # bme_i2c
 
-A new Flutter project.
+This is an example of using the BME280 and BLoC
 
-## Getting Started
+## Equipment Needed
+- Raspberry Pi Model 4B with 8G of RAM
+- Raspberry Pi OS for Desktop
+- BME280 Sensor with lead to Pi
+- Or a breadboard and jumper wires to Pi
 
-This project is a starting point for a Flutter application.
+## Setup
+- Need to enable serial communication on the Pi
+- Need to check to see if the I2C is working via command lin
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
